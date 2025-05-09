@@ -23,4 +23,5 @@
 2. Instalar dependencias:
 
 ```bash
-ng serve
+cd backend
+npm install
